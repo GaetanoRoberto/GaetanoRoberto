@@ -4,14 +4,6 @@ Innovative Computer Engineer with a Passion for Technology 💻
 - Explore my [portfolio](https://gaetanoroberto.netlify.app/) 🌍
 - Bachelor’s degree in computer engineering - [Unisa](https://www.unisa.it/)👨‍🎓
 - Master's degree in Artificial Intelligence and Data Analytics - [Polito](https://www.polito.it/) 🤖
-
-<h3 align="left">📧 Connect with me:</h3>
-<div align="left">
-  <a href="https://www.linkedin.com/in/gaetano-roberto-354b65239/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:gaetano.roberto2001@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://gaetanoroberto.netlify.app/"><img alt="Portfolio" src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white"/></a>
-</div>
-
 ### <h3 align="left">💼 Skills:</h3>
 <p align="center" style="margin: 25px" >
 <a href="https://www.w3.org/html/" target="_blank"><img width="46" height="46" src="https://img.icons8.com/color/48/000000/html-5--v1.png"></a>
@@ -170,6 +162,13 @@ Innovative Computer Engineer with a Passion for Technology 💻
 </table>
 <div align="center">
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gaetanoroberto&theme=dark" alt="gaetano-roberto" /></p>
+</div>
+
+<h3 align="left">📧 Connect with me:</h3>
+<div align="left">
+  <a href="https://www.linkedin.com/in/gaetano-roberto-354b65239/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:gaetano.roberto2001@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://gaetanoroberto.netlify.app/"><img alt="Portfolio" src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white"/></a>
 </div>
 
 
