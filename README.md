@@ -160,10 +160,10 @@ Innovative Computer Engineer with a Passion for Technology 💻
     <td><img src="https://github-readme-stats.vercel.app/api?username=gaetanoroberto&show_icons=true&theme=codeSTACKr&rank_icon=github&hide=prs,stars" alt="jigar-sable" /></td>
   </tr>
 </table>
-<div align="center">
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gaetanoroberto&theme=dark" alt="gaetano-roberto" /></p>
+<!-- <div align="center">
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gaetanoroberto" alt="gaetano-roberto" /></p>
 </div>
-
+ -->
 <h3 align="left">📧 Connect with me:</h3>
 <div align="left">
   <a href="https://www.linkedin.com/in/gaetano-roberto-354b65239/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
