@@ -153,7 +153,7 @@ Innovative Computer Engineer with a Passion for Technology 💻
   <a href="  https://github.com/GaetanoRoberto/awII_project"  target="_blank">
         <img src="https://gaetanoroberto.netlify.app/assets/img/projects/wa2.png"  alt="Gaetano Roberto">
   </a>
-      <strong>Portfolio</strong>
+      <strong>CRM - WA2</strong>
 </td>
   </tr>
   </table>
@@ -165,10 +165,10 @@ Innovative Computer Engineer with a Passion for Technology 💻
     <td><img src="https://github-readme-stats.vercel.app/api?username=gaetanoroberto&show_icons=true&theme=codeSTACKr&rank_icon=github&hide=prs,stars" alt="jigar-sable" /></td>
   </tr>
 </table>
-<div align="center">
+<!-- <div align="center">
 <p><img align="center" src="https://streak-stats.demolab.com/?user=gaetanoroberto&theme=dark" alt="gaetano-roberto" /></p>
 </div>
-
+ -->
 <h3 align="left">📧 Connect with me:</h3>
 <div align="left">
   <a href="https://www.linkedin.com/in/gaetano-roberto-354b65239/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
