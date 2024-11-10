@@ -58,13 +58,13 @@ Innovative Computer Engineer with a Passion for Technology 💻
 <tr>
   <td  width="206px" height="107px" >
   <a href="https://github.com/GaetanoRoberto/Tamagotchi-LANDTIGER-Board" target="_blank">
-    <img src="https://gaetanoroberto.netlify.app/assets/img/projects/Tamagotchi.png" alt="" "/>
+    <img src="https://gaetanoroberto.netlify.app/assets/img/projects/Tamagotchi.png" alt="Gaetano Roberto" "/>
   </a>
       <strong>Tamagotchi</strong>
 </td>
   <td  width="206px" height="107px" >
   <a href="https://github.com/GaetanoRoberto/IoT-Bin/tree/main" target="_blank">
-    <img src="https://gaetanoroberto.netlify.app/assets/img/projects/bin.png" alt="" "/>
+    <img src="https://gaetanoroberto.netlify.app/assets/img/projects/bin.png" alt="Gaetano Roberto" "/>
   </a>
       <strong>Smart Bin</strong>
 </td>
@@ -77,13 +77,13 @@ Innovative Computer Engineer with a Passion for Technology 💻
 </td>
   <td  width="206px" height="107px" >
   <a href="https://github.com/GaetanoRoberto/Software-Engineering/tree/main" target="_blank">
-        <img src="https://gaetanoroberto.netlify.app/assets/img/projects/se.png"  alt="">
+        <img src="https://gaetanoroberto.netlify.app/assets/img/projects/se.png"  alt="Gaetano Roberto">
   </a>
       <strong>Soft Eng</strong>
 </td>
   <td  width="206px" height="107px" >
   <a href="https://github.com/GaetanoRoberto/Uniteam-MobileApp" target="_blank">
-    <img src="https://gaetanoroberto.netlify.app/assets/img/projects/uniteam.png" alt="" "/>
+    <img src="https://gaetanoroberto.netlify.app/assets/img/projects/uniteam.png" alt="Gaetano Roberto" "/>
   </a>
       <strong>Uniteam</strong>
 </td>
@@ -92,13 +92,13 @@ Innovative Computer Engineer with a Passion for Technology 💻
   <tr>
   <td  width="206px" height="107px" >
   <a href="https://github.com/GaetanoRoberto/Web-Application-1" target="_blank">
-    <img src="https://gaetanoroberto.netlify.app/assets/img/projects/wa1.png" alt="" "/>
+    <img src="https://gaetanoroberto.netlify.app/assets/img/projects/wa1.png" alt="Gaetano Roberto" "/>
   </a>
       <strong>CMS</strong>
 </td>
   <td  width="206px" height="107px" >
   <a href="https://github.com/GaetanoRoberto/Machine-Learning/tree/main" target="_blank">
-    <img src="https://gaetanoroberto.netlify.app/assets/img/projects/ml.png" alt="" "/>
+    <img src="https://gaetanoroberto.netlify.app/assets/img/projects/ml.png" alt="Gaetano Roberto" "/>
   </a>
       <strong>ML Project</strong>
 </td>
@@ -111,13 +111,13 @@ Innovative Computer Engineer with a Passion for Technology 💻
 </td>
   <td  width="206px" height="107px" >
   <a href="https://github.com/GaetanoRoberto/Dinterest-WebSite-" target="_blank">
-        <img src="https://gaetanoroberto.netlify.app/assets/img/projects/dinterest.png"  alt="">
+        <img src="https://gaetanoroberto.netlify.app/assets/img/projects/dinterest.png"  alt="Gaetano Roberto">
   </a>
       <strong>Dinterest</strong>
 </td>
   <td  width="206px" height="107px" >
   <a href="https://github.com/GaetanoRoberto/Human-Computer-Interaction-Project" target="_blank">
-    <img src="https://gaetanoroberto.netlify.app/assets/img/projects/hci.png" alt="" "/>
+    <img src="https://gaetanoroberto.netlify.app/assets/img/projects/hci.png" alt="Gaetano Roberto" "/>
   </a>
       <strong>HCI</strong>
 </td>
@@ -126,13 +126,13 @@ Innovative Computer Engineer with a Passion for Technology 💻
   <tr>
   <td  width="206px" height="107px" >
   <a href="https://github.com/GaetanoRoberto/Database-Design" target="_blank">
-    <img src="https://gaetanoroberto.netlify.app/assets/img/projects/db.png" alt="" "/>
+    <img src="https://gaetanoroberto.netlify.app/assets/img/projects/db.png" alt="Gaetano Roberto" "/>
   </a>
       <strong>Database</strong>
 </td>
   <td  width="206px" height="107px" >
   <a href="https://github.com/GaetanoRoberto/Activation-Shaping-AML" target="_blank">
-    <img src="https://gaetanoroberto.netlify.app/assets/img/projects/aml.png" alt="" "/>
+    <img src="https://gaetanoroberto.netlify.app/assets/img/projects/aml.png" alt="Gaetano Roberto" "/>
   </a>
       <strong>Advanced-ML Project</strong>
 </td>
@@ -145,12 +145,17 @@ Innovative Computer Engineer with a Passion for Technology 💻
 </td>
   <td  width="206px" height="107px" >
   <a href="https://gaetanoroberto.netlify.app/"  target="_blank">
-        <img src="https://gaetanoroberto.netlify.app/assets/img/projects/portfolio.png"  alt="">
+        <img src="https://gaetanoroberto.netlify.app/assets/img/projects/portfolio.png"  alt="Gaetano Roberto">
+  </a>
+      <strong>Portfolio</strong>
+</td>
+  <td  width="206px" height="107px" >
+  <a href="  https://github.com/GaetanoRoberto/awII_project"  target="_blank">
+        <img src="https://gaetanoroberto.netlify.app/assets/img/projects/wa2.png"  alt="Gaetano Roberto">
   </a>
       <strong>Portfolio</strong>
 </td>
   </tr>
-  
   </table>
 
 <h3 align="left">📊 Stats:</h3>
@@ -160,10 +165,10 @@ Innovative Computer Engineer with a Passion for Technology 💻
     <td><img src="https://github-readme-stats.vercel.app/api?username=gaetanoroberto&show_icons=true&theme=codeSTACKr&rank_icon=github&hide=prs,stars" alt="jigar-sable" /></td>
   </tr>
 </table>
-<!-- <div align="center">
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gaetanoroberto" alt="gaetano-roberto" /></p>
+<div align="center">
+<p><img align="center" src="https://streak-stats.demolab.com/?user=gaetanoroberto&theme=dark" alt="gaetano-roberto" /></p>
 </div>
- -->
+
 <h3 align="left">📧 Connect with me:</h3>
 <div align="left">
   <a href="https://www.linkedin.com/in/gaetano-roberto-354b65239/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
